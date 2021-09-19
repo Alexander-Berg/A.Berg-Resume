@@ -1,4 +1,6 @@
 # A.Berg-Resume
 ![](https://github.com/Alexander-Berg/A.Berg-Resume/blob/18f708cf9b069408240b75f112639b422ac779d7/A.Berg%20Resume.png)
 ![](https://github.com/Alexander-Berg/A.Berg-Resume/blob/96911f647028ae60297740e06348cc86e01e3487/Png/Software%20Skills%20Portfolio_Page_1.png)
-![](
+![](https://github.com/Alexander-Berg/A.Berg-Resume/blob/d5aa15f226fe23385ae1cb58040355ae7258fde7/Png/Software%20Skills%20Portfolio_Page_2.png)
+![](https://github.com/Alexander-Berg/A.Berg-Resume/blob/d5aa15f226fe23385ae1cb58040355ae7258fde7/Png/GamesTests%20portfolio_Page_1.png)
+1[]()
